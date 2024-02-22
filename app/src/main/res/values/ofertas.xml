@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oferta_desayuno">¡15% de descuento solo hoy!</string>
+    <string name="oferta_hamburger">¡Aprovecha 20% de descuento!</string>
+    <string name="oferta_pizza">¡Compra con 25% de descuento!</string>
+    <string name="oferta_postre">¡Ahorra 7% de descuento!</string>
+    <string name="oferta_pozole">¡Compra ahora con 15% de descuento!</string>
+    <string name="oferta_tacos">¡Llévatelos al 2x1 solo hoy!</string>
+</resources>
